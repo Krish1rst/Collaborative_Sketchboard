@@ -1,6 +1,6 @@
 #skectboard
 
-![Project Logo](images/Screenshot.png)
+
 
 # Prerequisites
 1. NodeJs
